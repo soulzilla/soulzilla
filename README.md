@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td align="right"><strong>Backend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi" height="36" /></td>
+    <td><img src="https://skillicons.dev/icons?i=php,laravel,symfony,go,python,fastapi" height="36" /><img src="https://img.shields.io/badge/Yii2-darkblue?style=flat-square&logo=yii&logoColor=white" height="20" style="margin-left:4px;vertical-align:middle" /></td>
   </tr>
   <tr>
     <td align="right"><strong>Frontend</strong></td>
@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td align="right"><strong>Infra</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,linux,githubactions" height="36" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch,docker,kubernetes,linux,githubactions" height="36" /></td>
   </tr>
 </table>
 
