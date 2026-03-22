@@ -26,3 +26,10 @@
     <td><img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,linux,githubactions" height="36" /></td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soulzilla&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=888888&icon_color=888888&text_color=cccccc&ring_color=444444" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulzilla&layout=compact&count_private=true&theme=transparent&hide_border=true&title_color=888888&text_color=cccccc&langs_count=6" height="150" />
+</p>
